@@ -21,16 +21,18 @@
 ----------------------------------*/
 @import url("https://fonts.googleapis.com/css2?family=Archivo:wght@200;300;400;500;600;700;800;900&amp;family=Manrope:wght@300;400;500;600;700;800&amp;display=swap");
 :root {
-  --bodyFont: "Archivo", sans-serif;
-  --secondaryFont: "Manrope", sans-serif;
+/*   --bodyFont: "Archivo", sans-serif;
+  --secondaryFont: "Manrope", sans-serif; */
  /* --primaryColor: #0DE4CF;  /* Changed from #3267FF */
  /* --secondaryColor: #00CCE7;  /* Changed from #FE5912 */
---primaryColor: #27a3f0;
+ --bodyFont: "Archivo", sans-serif;
+  --secondaryFont: "Manrope", sans-serif;
+  --primaryColor: #3267FF;
   --secondaryColor: #FE5912;
-  --optionalColor: #00AFF6;  /* Changed from #F1F8FF */
-  --titleColor: #000A2D;  /* Changed from #000A2D */
-  --paraColor: #555555;  /* Changed from #555555 */
-  --bgColor: #F7F7F7 ;  /* Changed from #F7F7F7 */
+  --optionalColor: #F1F8FF;
+  --titleColor: #000A2D;
+  --paraColor: #555555;
+  --bgColor: #F7F7F7;
   --bgColorTwo: #F6F1EC;
   --grayColor: #FAF7F7;
   --ashColor:#FAF7F7;
